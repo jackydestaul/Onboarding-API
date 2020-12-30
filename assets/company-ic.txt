@@ -1,0 +1,12 @@
+Home
+->Company
+->CreateCompany(companyName, emailAddress, phoneNumber, smsNumber)
+->CreatedCompany
+->Account
+->CreateAccount(companyId, division, defaultDiscount, creditLimit)
+->CreatedAccount
+->SalesActivity
+->CreateActivity(companyId, accountId, activitytype, dateScheduled, note)
+->CreatedActivity:
+->dateUpdated:
+->Home
